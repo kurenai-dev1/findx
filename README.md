@@ -3,7 +3,7 @@ Windows用フォルダ除外指定findstr
 
 ## 概要(Overview) 
 
-Windows の findstr コマンドと似たファイル内野路烈検索。　　
+Windows の findstr コマンドと似たファイル内文字列検索。　　
 本プログラムは、Google Gemini に全て作らせました。　
 findstr が特定のディレクトリを除外できないので作ってもらった。
 
